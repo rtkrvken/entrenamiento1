@@ -1,2 +1,2 @@
 ﻿# entrenamiento1
- actualizacion archivo README a la fecha
+ actualizacion archivo pagina web en construccion a la fecha
